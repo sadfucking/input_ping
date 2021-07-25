@@ -1,3 +1,3 @@
 import os
-t = input(get link: )
+t = input("enter link: ")
 os.system('ping' + " " + t)
