@@ -1,3 +1,2 @@
 import os
-t = input("enter link: ")
-os.system('ping' + " " + t)
+os.system('ping' + " " + "google.com")
