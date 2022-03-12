@@ -1,1 +1,2 @@
-print('work')
+import sys
+print({})
