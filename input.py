@@ -1,2 +1,3 @@
 import sys
-print({})
+r={}.format(sys.argv[1])
+print(r)
